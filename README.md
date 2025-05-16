@@ -65,7 +65,6 @@ An interactive and responsive portfolio showcasing my journey as a Full-Stack We
     MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<dbname>
     EMAIL_USER=your-email@gmail.com
     EMAIL_PASS=your-email-password
-    SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your/webhook/url
     ```
 4. Start the development server:
     - Frontend:
