@@ -89,7 +89,7 @@ const Contact = () => {
               <FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/monika-mohammadi-88b84a1b9/"
+              href="https://www.linkedin.com/in/monika-mohammadi-55708a23a"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#111111] transition"
