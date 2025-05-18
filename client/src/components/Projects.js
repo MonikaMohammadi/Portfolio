@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: 'Online Clothing Store',
-    techStack: 'PHP, MySQL, HTML, CSS, JavaScript',
+    techStack: 'VueJS, CSS, JavaScript, MongoDB',
     description:
       'Built a comprehensive e-commerce website for clothing with admin, client, and merchant dashboards. Focused on customer engagement, product listings, and integrated marketing tools.',
     link: '#',

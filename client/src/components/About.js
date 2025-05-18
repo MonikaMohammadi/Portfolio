@@ -62,8 +62,8 @@ const About = () => {
           </p>
 
           <p className="mt-6 text-[#4a4a4a] leading-8 text-lg">
-            I thrive on building impactful digital solutions — from hospital
-            management systems to e-commerce platforms — and bring a creative
+            I thrive on building impactful digital solutions from hospital
+            management systems to e-commerce platforms and bring a creative
             and collaborative mindset to every project. Fluent in Dari, Pashto,
             and English, I work seamlessly across teams and cultures to make
             technology more inclusive and meaningful.

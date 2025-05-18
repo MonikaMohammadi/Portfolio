@@ -16,7 +16,7 @@ const Hero = () => {
           accessible, and modern web experiences.
         </p>
         <p className="mt-4 text-lg md:text-xl text-[#4a4a4a] leading-relaxed">
-          Skilled in React, Tailwind CSS, and JavaScript — always learning,
+          Skilled in React, Tailwind CSS, and JavaScript always learning,
           building, and growing through real-world development.
         </p>
 
